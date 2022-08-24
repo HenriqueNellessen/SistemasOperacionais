@@ -13,8 +13,8 @@ EXERCÍCIO 1
   entrada1 = fopen ("arquivo_1.txt", "r"); // "r" = read // (Chamadado 1 ao SO)
     
   if (entrada1 == NULL) { //Verificação caso nao encontre o arquivo (Chamadado 2 ao SO)
-      printf ("\nArquivo não encontrado!\n");
-      exit (EXIT_FAILURE); //Status de erro // (Chamadado 3 ao SO)
+      printf ("\nArquivo não encontrado!\n"); // (Chamadado 3 ao SO)
+      exit (EXIT_FAILURE); //Status de erro 
    }
     char conteudo;
     while ((conteudo=fgetc(entrada1))!=EOF) { //EOF = End Of File --> Le o arquivo ate o final // (Chamadado 4 ao SO)
