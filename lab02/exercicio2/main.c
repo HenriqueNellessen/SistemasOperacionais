@@ -30,7 +30,7 @@ int main(void)  {
     fclose(entrada1);  //Fechando o arquivo 1 // (Chamadado 10 ao SO)
     fclose(entrada2);  //Fechando o arquivo 2 // (Chamadado 11 ao SO)
 
-  //Foram realizadas 11 chamadas ao SO
+  //Ao total foram realizadas 11 chamadas ao SO
   return 0;
 }
 
