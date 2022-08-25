@@ -21,5 +21,5 @@ EXERCÍCIO 1
       printf("%c", conteudo);
     }
     fclose(entrada1); //Fecha arquivo // (Chamadado 5 ao SO)
-    //Foram realizadas 5 chamadas ao SO
+    //Ao total foram realizadas 5 chamadas ao SO
 }
