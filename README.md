@@ -1,5 +1,7 @@
-# SistemasOperacionais
-Repositório do git para projetos e tarefas da matéria Sistemas Operacionais 04N11
+# Sistemas Operacionais
+# RASCUNHOS(development)
+
+Repositório do git para projetos, tarefas e rascunhos da matéria Sistemas Operacionais 04N11
 
 Grupo:
 Nome: Gabriel Santos de Oliveira Arruda
