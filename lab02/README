@@ -3,6 +3,6 @@ LABORATÓRIO 02
 04N11
 
 O numero de chamadas que o primeiro exercicio faz ao SO é 5, já no segundo exercício são 11 chamadas.
-Para rodar os programas no prompt de comando você deve digitar ./main
+Para rodar os programas no terminal você deve digitar ./main
 
 
