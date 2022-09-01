@@ -1,4 +1,10 @@
 EXERCÍCIO 1:
+1)Rode o programa anterior para valores grandes de n. As mensagens sempre estarão ordenadas pelo valor de i?
+
+Rodando o exercicio podemos observar que as mensagens sempre estarão ordenadas pelo valor de i.
 
 
 EXERCÍCIO 2: 
+2) O que acontece se o programa anterior escreve-se as mensagens para sys.stdout, usando print, ao invés de para sys.stderr?
+
+Escrevendo o programa anterior com o stdout o processo mostra a saída padrão na interface com o usuário, já o stderr mostra uma saída de erro.
