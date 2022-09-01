@@ -4,8 +4,8 @@ EXERCÍCIO 1:
 Rodando o exercicio podemos observar que as mensagens sempre estarão ordenadas pelo valor de i. Conforme podemos observar o resultado na imagem "cod1"  
 
 
-
 EXERCÍCIO 2: 
 2) O que acontece se o programa anterior escreve-se as mensagens para sys.stdout, usando print, ao invés de para sys.stderr?
 
 Escrevendo o programa anterior com o stdout o processo mostra a saída padrão na interface com o usuário, conforme podemos observar o resultado na imagem "cod2" , já o stderr mostra uma saída de erro.
+Os arquivos cod1 e cod2, os quais estão incluídos nessa mesma pasta, são referentes as saídas geradas no exercício 1 e no exercício 2
